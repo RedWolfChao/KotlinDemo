@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/mBtnWhen"
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:layout_height="wrap_content"
+        android:text="mBtnWhen" />
+    <Button
+        android:id="@+id/mBtnList"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mBtnList遍历" />
+
+    <Button
+        android:id="@+id/mBtnMap"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:text="mBtnMap遍历" />
+
+    <Button
+        android:id="@+id/mBtnMapMethod"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mBtnMapMethod" />
+
+    <Button
+        android:id="@+id/mBtnReduce"
+        android:layout_width="match_parent"
+        android:textAllCaps="false"
+        android:layout_height="wrap_content"
+        android:text="mBtnReduce" />
+
+    <Button
+        android:id="@+id/mBtnFilter"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mBtnFilter" />
+    <Button
+        android:id="@+id/mBtnExtend"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mBtnExtend" />
+    <Button
+        android:id="@+id/mBtnJavaBean"
+        android:textAllCaps="false"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="mBtnJavaBean" />
+
+
+
+</LinearLayout>
